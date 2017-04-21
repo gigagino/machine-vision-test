@@ -1,2 +1,2 @@
 # machine-vision-test
-Machine vision for bioengineering
+I am looking into potential applications of machine-vision technologies in the biomedical engineering research field.
